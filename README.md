@@ -1,31 +1,102 @@
-<h1 align="center">Hi 👋, I'm Anjana Heshan</h1>
-<h3 align="center">A passionate Software Engineer Student from Sri Lanka</h3>
+# 👋 Hi there, I'm Anjana Heshan!
 
-<img align="right" alt="coding" width="400" src="https://i.gifer.com/9tdT.gif">
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Software+Engineer+Student;Full+Stack+Developer;Problem+Solver;Tech+Enthusiast" alt="Typing SVG" />
+</div>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=anju-hesh&label=Profile%20views&color=0e75b6&style=flat" alt="anju-hesh" /> </p>
+<div align="center">
+  <img src="https://i.gifer.com/9tdT.gif" width="400" alt="Coding Animation"/>
+</div>
 
-- 🌱 I’m currently learning **Frameworks , Languages , etc...**
+---
 
-- 👨‍💻 All of my projects are available at you can see over view in my portfolio [https://my-portfolio-7f058.web.app/](https://my-portfolio-7f058.web.app/)
+## 🚀 About Me
 
-- 💬 Ask me about **Java , Java Script , CSS , etc ...**
+```javascript
+const anjana = {
+    location: "Sri Lanka 🇱🇰",
+    role: "Software Engineer Student",
+    currentFocus: "Full Stack Development",
+    learningGoals: ["Advanced Frameworks", "Cloud Technologies", "System Design"],
+    funFact: "I think I'm funny 😉",
+    askMeAbout: ["Java", "JavaScript", "CSS", "Web Development"]
+};
+```
 
-- 📫 How to reach me **anjanaheshan676@gmail.com**
+<img align="right" src="https://komarev.com/ghpvc/?username=anju-hesh&label=Profile%20views&color=00d9ff&style=for-the-badge" alt="Profile Views" />
 
-- ⚡ Fun fact **I Think I Am Funny 😉**
+## 🎯 Current Status
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://fb.com/anjana heshan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="anjana heshan" height="30" width="40" /></a>
-<a href="https://instagram.com/anjana heshan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="anjana heshan" height="30" width="40" /></a>
-</p>
+- 🌱 **Currently Learning:** Advanced Frameworks, Modern JavaScript, Cloud Technologies
+- 👨‍💻 **Portfolio:** Check out my work at [my-portfolio-7f058.web.app](https://my-portfolio-7f058.web.app/)
+- 💬 **Ask me about:** Java, JavaScript, CSS, Web Development, Problem Solving
+- 📫 **Reach me:** [anjanaheshan676@gmail.com](mailto:anjanaheshan676@gmail.com)
+- ⚡ **Fun fact:** I believe coding is an art form, and debugging is detective work!
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+## 🛠️ Tech Arsenal
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anju-hesh&show_icons=true&locale=en&layout=compact" alt="anju-hesh" /></p>
+<div align="center">
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anju-hesh&show_icons=true&locale=en" alt="anju-hesh" /></p>
+### Languages
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anju-hesh&" alt="anju-hesh" /></p>
+### Frameworks & Libraries
+![Bootstrap](https://img.shields.io/badge/Bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+### Databases
+![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+
+### Tools & Technologies
+![Firebase](https://img.shields.io/badge/Firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
+![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+</div>
+
+## 📊 GitHub Analytics
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Anjana-Hesh&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anjana-Hesh&layout=compact&langs_count=8&theme=tokyonight"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Anjana-Hesh&theme=tokyonight" alt="GitHub Streak"/>
+</div>
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Anjana-Hesh&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies"/>
+</div>
+
+## 📈 Contribution Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Anjana-Hesh&theme=tokyo-night&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" alt="Contribution Graph"/>
+</div>
+
+## 🤝 Let's Connect!
+
+<div align="center">
+  
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://fb.com/anjana%20heshan)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/anjana%20heshan)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anjanaheshan676@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://my-portfolio-7f058.web.app/)
+
+</div>
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+  
+  **"Code is poetry written in logic"** ✨
+  
+  *Thanks for visiting! Don't forget to ⭐ some repositories if you find them interesting!*
+</div>
