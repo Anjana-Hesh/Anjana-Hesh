@@ -78,7 +78,7 @@ const anjana = {
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Anjana-Hesh&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Anjana-Hesh&theme=dracula&no-frame=true&no-bg=true&margin-w=15&rank=SSS,SS,S,AAA,AA,A,B,C&column=7" alt="GitHub Trophies"/>
 </div>
 
 ## 📈 Contribution Graph
