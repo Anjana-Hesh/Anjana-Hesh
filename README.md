@@ -65,19 +65,29 @@ const anjana = {
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Anjana-Hesh&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anjana-Hesh&layout=compact&langs_count=8&theme=tokyonight"/>
+
+  <!-- Main Stats Card -->
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Anjana-Hesh&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&rank_icon=github" alt="GitHub Stats" />
+
+  <!-- Top Languages Card -->
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anjana-Hesh&layout=compact&langs_count=8&theme=tokyonight" alt="Top Languages" />
+  <!-- GitHub Grade Icon -->
+  <br><br>
+  <img src="https://img.shields.io/badge/Grade-A%2B-black?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Grade" />
+
 </div>
 
+
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Anjana-Hesh&theme=tokyonight" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com?user=Anjana-Hesh&theme=tokyonight" alt="GitHub Streak"/>
 </div>
 
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Anjana-Hesh&theme=dracula&no-frame=true&no-bg=true&margin-w=15&rank=SSS,SS,S,AAA,AA,A,B,C&column=7" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Anjana-Hesh&theme=dracula&no-frame=false&margin-w=15&row=2&column=4" alt="GitHub Trophies"/>
 </div>
+
 
 ## 📈 Contribution Graph
 
