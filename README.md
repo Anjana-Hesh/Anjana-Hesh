@@ -63,23 +63,39 @@ const anjana = {
 
 ## 📊 GitHub Statistics
 
-<div align="center">
-  
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Anjana-Hesh&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Anjana-Hesh&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-  
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anjana-Hesh&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
-  <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=Anjana-Hesh&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Anjana-Hesh&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Anjana-Hesh&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" width="48%" />
+</p>
 
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anjana-Hesh&layout=compact&theme=radical&hide_border=true&langs_count=10&hide=html,css" alt="Top Languages" width="48%" />
+  <img src="https://github-contributor-stats.vercel.app/api?username=Anjana-Hesh&theme=radical&hide_border=true" alt="Contribution Stats" width="48%" />
+</p>
 
-## 🏆 GitHub Achievements
+## 📈 Contribution Activity
 
-<div align="center">
-  
-  ![Trophies](https://github-profile-trophy.vercel.app/?username=Anjana-Hesh&theme=tokyonight&no-frame=true&row=1&column=6)
-  
-</div>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Anjana-Hesh&theme=react-dark&hide_border=true&area=true&custom_title=Contribution%20Graph" alt="Contribution Graph" width="98%" />
+</p>
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Anjana-Hesh&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=2&column=4" alt="GitHub Trophies" />
+</p>
+
+## 🔥 Streak & Activity
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Anjana-Hesh&theme=radical" alt="Profile Summary" width="98%" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Anjana-Hesh&theme=radical" width="32%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Anjana-Hesh&theme=radical" width="32%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Anjana-Hesh&theme=radical" width="32%" />
+</p>
 
 ## 🤝 Connect With Me
 
@@ -92,7 +108,9 @@ const anjana = {
   [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://fb.com/anjana%20heshan)
   [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/anjana%20heshan)
   
-  ![Profile Views](https://komarev.com/ghpvc/?username=Anjana-Hesh&color=blueviolet&style=for-the-badge)
+  <br/>
+  
+  ![Profile Views](https://komarev.com/ghpvc/?username=Anjana-Hesh&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS)
   
 </div>
 
@@ -100,10 +118,10 @@ const anjana = {
 
 <div align="center">
   
-  ### 💭 Quote of the Day
-  ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+  ### 💭 Random Dev Quote
+  ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
   
-  **✨ "Turning coffee into code, one commit at a time" ✨**
+  ### ✨ "Turning coffee into code, one commit at a time" ✨
   
   *Thanks for visiting! Feel free to explore my repositories and don't forget to ⭐ if you find something interesting!*
   
