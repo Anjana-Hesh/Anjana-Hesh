@@ -71,27 +71,28 @@ const anjana = {
 
 <div align="center">
 
-  <!-- Dynamic GitHub Stats -->
+  <!-- GitHub Stats -->
   <a href="https://github.com/Anjana-Hesh">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Anjana-Hesh&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&rank_icon=github&custom_title=Anjana's%20GitHub%20Stats" alt="GitHub Stats" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Anjana-Hesh&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&custom_title=Anjana's%20GitHub%20Stats" alt="GitHub Stats" />
   </a>
   
   <!-- Most Used Languages -->
   <a href="https://github.com/Anjana-Hesh?tab=repositories">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anjana-Hesh&layout=compact&langs_count=8&theme=tokyonight&hide=html,css&exclude_repo=github-readme-stats" alt="Top Languages" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anjana-Hesh&layout=compact&langs_count=8&theme=tokyonight&hide=html,css" alt="Top Languages" />
   </a>
+  
   <!-- Streak Stats -->
   <a href="https://github.com/Anjana-Hesh">
-    <img height="180em" src="https://streak-stats.demolab.com?user=Anjana-Hesh&theme=tokyonight&date_format=j%20M%5B%20Y%5D&mode=weekly" alt="GitHub Streak" />
+    <img height="180em" src="https://streak-stats.demolab.com?user=Anjana-Hesh&theme=tokyonight&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
   </a>
+
 </div>
 
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Anjana-Hesh&theme=dracula&no-frame=false&margin-w=15&row=2&column=4" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Anjana-Hesh&theme=dracula&row=2&column=4" alt="GitHub Trophies"/>
 </div>
-
 
 ## 📈 Contribution Graph
 
