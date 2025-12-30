@@ -1,124 +1,112 @@
-# 👋 Hi there, I'm Anjana Heshan!
+# Hi there, I'm Anjana Heshan! 👋
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=2500&pause=1000&color=F97316&center=true&vCenter=true&width=600&lines=Software+Engineering+Student;Full+Stack+Developer;Problem+Solver;Tech+Enthusiast;Always+Learning+New+Things" alt="Typing SVG" />
-</div>
-
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="400" alt="Coding Animation"/>
+  
+  ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=F97316&center=true&vCenter=true&width=600&lines=Software+Engineering+Student;Full+Stack+Developer;Problem+Solver;Always+Learning!)
+  
 </div>
 
 ## 🚀 About Me
 
+I'm a passionate **Software Engineering Student** from Sri Lanka, dedicated to crafting elegant solutions through code. I love building full-stack applications and exploring new technologies!
+
 ```javascript
 const anjana = {
     location: "Sri Lanka 🇱🇰",
-    role: "Software Engineer Student",
+    education: "Software Engineering Student",
     currentFocus: "Full Stack Development",
-    learningGoals: ["Advanced Frameworks", "Cloud Technologies", "System Design"],
-    funFact: "I think I'm funny 😉",
-    askMeAbout: ["Java", "JavaScript", "CSS", "Web Development"]
+    interests: ["Web Development", "Mobile Apps", "Cloud Technologies"],
+    motto: "Code is poetry written in logic"
 };
 ```
 
-<img align="right" src="https://komarev.com/ghpvc/?username=anju-hesh&label=Profile%20views&color=00d9ff&style=for-the-badge" alt="Profile Views" />
+## 💼 What I'm Up To
 
-## 🎯 Current Status
+- 🔭 Working on exciting **full-stack projects** with React and Spring Boot
+- 🌱 Learning **Advanced Frameworks**, **Cloud Technologies**, and **System Design**
+- 👨‍💻 Check out my portfolio: [my-portfolio-7f058.web.app](https://my-portfolio-7f058.web.app/)
+- 💬 Ask me about: **Java**, **JavaScript**, **React**, **Mobile Development**
+- 📫 Reach me: **anjanaheshan676@gmail.com**
+- ⚡ Fun fact: I believe debugging is detective work!
 
-- 🌱 **Currently Learning:** Advanced Frameworks, Modern JavaScript, Cloud Technologies
-- 👨‍💻 **Portfolio:** Check out my work at [my-portfolio-7f058.web.app](https://my-portfolio-7f058.web.app/)
-- 💬 **Ask me about:** Java, JavaScript, React , mobile developing (React-native , flutter) ,CSS, Web Development, Problem Solving
-- 📫 **Reach me:** [anjanaheshan676@gmail.com](mailto:anjanaheshan676@gmail.com)
-- ⚡ **Fun fact:** I believe coding is an art form, and debugging is detective work!
-
-## 🛠️ Tech Arsenal
+## 🛠️ Technologies & Tools
 
 <div align="center">
 
-### Languages
+### 💻 Languages
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
+
+### 🎨 Frontend
+![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-%237952B3.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-### Frameworks & Libraries
-![Bootstrap](https://img.shields.io/badge/Bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-%2300B4D8.svg?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black)
+### ⚙️ Backend & Mobile
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-%236DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white)
 ![Hibernate](https://img.shields.io/badge/Hibernate-%23430000.svg?style=for-the-badge&logo=hibernate&logoColor=white)
 ![React Native](https://img.shields.io/badge/React_Native-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black)
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=flutter&logoColor=white)
-![Spring](https://img.shields.io/badge/Spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-%236DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white)
 
-### Databases
-![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+### 🗄️ Databases & Tools
+![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-
-### Tools & Technologies
-![Firebase](https://img.shields.io/badge/Firebase-%23039BE5.svg?style=for-the-badge&logo=firebase&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-%23FFCA28.svg?style=for-the-badge&logo=firebase&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 </div>
 
-## 📊 GitHub Analytics
-
-<div align="center">
-
-  <!-- GitHub Stats -->
-  <a href="https://github.com/Anjana-Hesh">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Anjana-Hesh&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&custom_title=Anjana's%20GitHub%20Stats" alt="GitHub Stats" />
-  </a>
-  
-  <!-- Most Used Languages -->
-  <a href="https://github.com/Anjana-Hesh?tab=repositories">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anjana-Hesh&layout=compact&langs_count=8&theme=tokyonight&hide=html,css" alt="Top Languages" />
-  </a>
-  
-  <!-- Streak Stats -->
-  <a href="https://github.com/Anjana-Hesh">
-    <img height="180em" src="https://streak-stats.demolab.com?user=Anjana-Hesh&theme=tokyonight&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
-  </a>
-
-</div>
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Anjana-Hesh&theme=dracula&row=2&column=4" alt="GitHub Trophies"/>
-</div>
-
-## 📈 Contribution Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Anjana-Hesh&theme=tokyo-night&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" alt="Contribution Graph"/>
-</div>
-
-## 🤝 Let's Connect!
+## 📊 GitHub Statistics
 
 <div align="center">
   
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://fb.com/anjana%20heshan)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/anjana%20heshan)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anjanaheshan676@gmail.com)
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@anjanaheshanTech)
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://my-portfolio-7f058.web.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anjana-heshan-79334b260/?originalSubdomain=lk)
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Anjana-Hesh&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Anjana-Hesh&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anjana-Hesh&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
+  <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=Anjana-Hesh&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph" />
 
+</div>
+
+## 🏆 GitHub Achievements
+
+<div align="center">
+  
+  ![Trophies](https://github-profile-trophy.vercel.app/?username=Anjana-Hesh&theme=tokyonight&no-frame=true&row=1&column=6)
+  
+</div>
+
+## 🤝 Connect With Me
+
+<div align="center">
+  
+  [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-FF7139?style=for-the-badge)](https://my-portfolio-7f058.web.app/)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anjana-heshan-79334b260/)
+  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anjanaheshan676@gmail.com)
+  [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@anjanaheshanTech)
+  [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://fb.com/anjana%20heshan)
+  [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/anjana%20heshan)
+  
+  ![Profile Views](https://komarev.com/ghpvc/?username=Anjana-Hesh&color=blueviolet&style=for-the-badge)
+  
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
   
-  **"Code is poetry written in logic"** ✨
+  ### 💭 Quote of the Day
+  ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
   
-  *Thanks for visiting! Don't forget to ⭐ some repositories if you find them interesting!*
+  **✨ "Turning coffee into code, one commit at a time" ✨**
+  
+  *Thanks for visiting! Feel free to explore my repositories and don't forget to ⭐ if you find something interesting!*
+  
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%"/>
