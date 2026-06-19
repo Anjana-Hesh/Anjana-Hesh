@@ -2,21 +2,22 @@
 
 <div align="center">
   
-  ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=F97316&center=true&vCenter=true&width=600&lines=Software+Engineering+Student;Full+Stack+Developer;Problem+Solver;Always+Learning!)
+  ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=F97316&center=true&vCenter=true&width=600&lines=Assosiate+Software+Engineering;Full+Stack+Developer;Problem+Solver;Always+Learning!)
   
 </div>
 
 ## 🚀 About Me
 
-I'm a passionate **Software Engineering Student** from Sri Lanka, dedicated to crafting elegant solutions through code. I love building full-stack applications and exploring new technologies!
+I'm a passionate **Assosiate Software Engineer** from Sri Lanka, dedicated to crafting elegant solutions through code. I love building full-stack applications and exploring new technologies!
 
 ```javascript
 const anjana = {
     location: "Sri Lanka 🇱🇰",
-    education: "Software Engineering Student",
+    education: "Software Engineering",
     currentFocus: "Full Stack Development",
     interests: ["Web Development", "Mobile Apps", "Cloud Technologies"],
     motto: "Code is poetry written in logic"
+    current: "Assosiate Software Engineer"
 };
 ```
 
