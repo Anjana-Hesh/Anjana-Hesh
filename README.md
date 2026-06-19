@@ -25,7 +25,7 @@ const anjana = {
 
 - 🔭 Working on exciting **full-stack projects** with React and Spring Boot
 - 🌱 Learning **Advanced Frameworks**, **Cloud Technologies**, and **System Design**
-- 👨‍💻 Check out my portfolio: [my-portfolio-7f058.web.app](https://my-portfolio-7f058.web.app/)
+- 👨‍💻 Check out my portfolio: [my-portfolio-7f058.web.app](https://react-portfolio-3e818.web.app/)
 - 💬 Ask me about: **Java**, **JavaScript**, **React**, **Mobile Development**
 - 📫 Reach me: **anjanaheshan676@gmail.com**
 - ⚡ Fun fact: I believe debugging is detective work!
